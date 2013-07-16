@@ -1,1 +1,0 @@
-/home/semperos/.emacs.d/shell/zshell/themes/semperos.zsh-theme
