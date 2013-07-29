@@ -7,3 +7,5 @@ custom
 *.swp
 !custom/example.zshcache
 cache/
+
+/themes/semperos.zsh-theme
